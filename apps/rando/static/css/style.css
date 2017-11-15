@@ -1,0 +1,20 @@
+* {
+	margin: 0px 125px 0px 125px;
+	text-align: center;
+}
+
+div {
+	margin-top:50px;
+	vertical-align: top;
+	display: inline-block;
+}
+
+fieldset {
+	display: inline-block;
+	width: 400px;
+}
+
+input {
+	margin-top: 5px;
+	box-shadow: 4px 4px 2px;
+}
